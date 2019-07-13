@@ -1,2 +1,2 @@
-# captain-america-shield
-Captain America Shield (Escudo do capitão américa)
+# Captain America Shield
+For educational purposes and entertainment
